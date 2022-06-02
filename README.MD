@@ -1,8 +1,8 @@
-#               Meu primeiro projeto HTML e CSS :computer: 
+#                                Meu primeiro projeto HTML e CSS :computer: 
 
-# ![Imagem de HTML e CSS!](https://www.brasilcode.com.br/wp-content/uploads/2020/05/HTML-e-CSS-Guia-basico-1024x427.png)
+#                   <img src="https://i.ytimg.com/vi/mkVcuntLIsg/maxresdefault.jpg" alt="Imagem de HTML e CSS!" style="zoom:50%;" />
 
 
 
-​                                                      ***Olá! Bem vindo ao meu primeiro projeto de HTML e CSS.***
+​                                                              ***Olá! Bem vindo ao meu primeiro projeto de HTML e CSS.***
 
